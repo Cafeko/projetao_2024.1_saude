@@ -20,7 +20,7 @@
       "pausa_relaxar": 19,
       "tempo_escutado": 20,
       "status_emocional": "?",
-      "areas": ["ombro", "pulso", "pescoco"]
+      "areas": ["pulso", "pescoco"]
     }
   },
   "musicas": {
