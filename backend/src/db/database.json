@@ -1,193 +1,159 @@
 {
-    "users": {
-        "cd@cin.ufpe.br": {
-            "status_diario": "bom",
-            "dor_inesperada": 0,
-            "meta_diaria": [
-                "0",
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "progresso_diario": [
-                "0",
-                "1"
-            ],
-            "estilos_musicais": [
-                "Jazz",
-                "Sons de Chuva"
-            ],
-            "pausa_relaxar": 19,
-            "tempo_escutado": 20,
-            "status_emocional": "?",
-            "areas": []
-        },
-        "dvd@cin.ufpe.br": {
-            "status_diario": "bom",
-            "dor_inesperada": 0,
-            "meta_diaria": [
-                "0",
-                "1",
-                "2",
-                "3",
-                "5"
-            ],
-            "progresso_diario": [
-                "0"
-            ],
-            "estilos_musicais": [
-                "Jazz",
-                "Sons de Chuva"
-            ],
-            "pausa_relaxar": 19,
-            "tempo_escutado": 20,
-            "status_emocional": "?",
-            "areas": [
-                "ombro",
-                "pulso",
-                "pescoco"
-            ]
-        }
+  "users": {
+    "cd@cin.ufpe.br": {
+      "status_diario": "bom",
+      "dor_inesperada": 0,
+      "meta_diaria": ["0", "1", "2", "3", "4"],
+      "progresso_diario": ["0", "1"],
+      "estilos_musicais": ["Jazz", "Sons de Chuva"],
+      "pausa_relaxar": 19,
+      "tempo_escutado": 20,
+      "status_emocional": "?",
+      "areas": []
     },
-    "musicas": {
-        "0": {
-            "Titulo": "Thoughtful",
-            "Artista": "marcobellonimusic",
-            "Genero": "Inspirador",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1163534/Thoughtful_mp3_1710983450.mp3?Expires=2026343758468&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=cjxkn8Cv5EGDjZj3jmKeFwQ68lZ82jWv5v2qeqvDP5rhCpqwebAdgsyYOxc4XbJJ0N8GCo8m~vAX7-h9WX1qYuq9Y~ctnQ8fwU-KlzUmZv-zrPvlxuynMR8jTsKwxaXGn9PUQxFUYVqTjFicRyoSbxpZMTGfKs0wV87Z4YbFZKN4Deen7zQ5b4SUV9oQ62Sr752BjIbQrHFWtfB08ZMnMcdtSkhL1-QeY6wjLtPHPkusYVB7xo4CUzTqmaOlgZ3aM~Au6HItl4TSeCZXp6UixcJCa7qE-HM92yoivyzR9-gKG9uu1D4MCheJJZokwUHmPXL3EyB9BtV9jfEhWKzALw__"
-        },
-        "1": {
-            "Titulo": "Sweet Melancholy",
-            "Artista": "Pressmaster",
-            "Genero": "Jazz",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/859612/Sweet_Melancholy_mp3_1710975071.mp3?Expires=2026335377615&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=aOo90pDO3R20EW~Gx0bGQoV5E2QahwR2o9fnTK48g9dE4NXgjPRyqYHSzVZouWADHJtxs82RXZfzUPAKON32hXocHlLkDn9vwUELQx7JdJrK06OXQlv5xgN1hGtwdybNXhzwo1Ya40RZKO-2PA-lNKkp6QNfI27MvGOHgRlvn1VMHpS-aVDOvqv5jOWdK-KWO61TAzL~yE9TXTvjhpfvmwCVHTbUdQ4vN72QUDRoVmabNOk5nGvU8m8LorSF8O8LO7HnMq4iwC4cKZNOtum0KW-mnr3~4~JbPCFxbStZ~Pn~UXvJXSYmYInmVjHsNF7C2Pte6iu0kSW76XPV0CZFrQ__"
-        },
-        "2": {
-            "Titulo": "A Forest Tale",
-            "Artista": "Roger Stark",
-            "Genero": "Celta",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/862839/A_Forest_Tale_mp3.mp3?Expires=2003733649675&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=VHrGUTgzGmGhhFkLRuAeai3HAm4Jw3gasBTrNprNzCJZng8MZ0iy73GsRwhccV34icdUy2i-nakkITYd~nr~6QFc4U5vSjhbogwB2xGyus2fBFRhKpbNVmd77RD1TrT93T3hxkx2wu91zJ89kqbSR3TLkl8JtkbCbD3GwotVR~O8UrvXLoAu2kfeC770Ya8ko3g6T1LJVvlueqIc02YvgUK2YTPqR-RdnAg~6fyca4pE0Bu9GGjbFSoMYqoj85IDxtHpd7mnoug5kvWQwJpemYXu-3pw5mXPo6m03IMUiG5tYByEc8yR~qQwhWOX2hHjjDeo594oga2SQy4O1PYnlQ__"
-        },
-        "3": {
-            "Titulo": "Ethereal Tin Whistle",
-            "Artista": "Katcamusic",
-            "Genero": "Celta",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/903837/Ethereal_Tin_Whistle_mp3.mp3?Expires=2003733897111&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=c1DUmZTk1vqSXdS92SN6jV7aSldxeKD2FmlbzJlVieJ1A2AYgObhSI1NRuUKsguUHZ6RMsyiYAmahD0v2tajh9saHQ65japoK6zhBO2V5bw9KW6rDsSqLXtqNmoB5SmvK-vpSw7gssS8Uhk1RlDwHmW5ExdLhgtZAWEdyp9fHk8Qjqg~UIIJPNPaLW~hsgrR0t6Xp3IcF5et23vH-b5zAnRJI~7fEedUiyv2We2KFzH3cLPlk~JtK5eoJul2Jqu4aj7mBVu0KG4Myk7zCDb8ISgc1Fras76o21Ivf55nGu-vSO0KVSvvHjeaMDTAw7-hNjnhkMfHWNG13eUxQffAiQ__"
-        },
-        "4": {
-            "Titulo": "Dawn Before Battle",
-            "Artista": "WhiteKoalaMusic",
-            "Genero": "Celta",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/812511/Dawn_Before_Battle_mp3_1710864393.mp3?Expires=2026224680265&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=KLCSe3kiMt~kucXgQDbifV6nw--XDlyGDqNKgQbXuzM5Vil6GtnhDS6~8nbthC5XCqC~DxFxLOl82LQ2dLev4CcJ4iLjt9p06i1hoy2UB2DMgDoBJemGnMOls2i2YUL2JCyEUOiGvjI5trX6pxAEFeAIO~KTPywY3ubW323Vcp-Dk-uakrP9OvrgurcOrR2VzJsAJgBvCvjuOqsNTYT3ec7P0X0qQ7DBqYUPWyOXeuPwxWZqaxhm2CuO4NbsglDldT9PVn-oyBGOpX1Ld3LVCVcN3KuBkUUrDB5eF3K65r~YJ7QPliwMpFQcNjXf6jo4t4cF7cv4BrZWQAAl9NFt9Q__"
-        },
-        "5": {
-            "Titulo": "The Lonely Piper",
-            "Artista": "DAYDREAMZ STUDIOS",
-            "Genero": "Celta",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1080685/The_Lonely_Piper_mp3.mp3?Expires=2003733034169&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=09hoFJ-NWv03YBsDnbj39Onr46tScsuM~4zEGauWDWl9qQmT8OV-8ex7A2cGeJ4oY1PhftTB2hEp8Inq2KeDI40yml~70Uq2z9gXIwf2fANFPTBiAJL9yzGMQ0XsDdzOilBUpGHHyLqVHl9EC8viJJVfyOpbpijXz-jJBfUm-UEN7IeVyUAS6PD97uEq8phbAFPHXObx8bkxRPVX1nbHsiO67v-16A~MmujaFAa7YfBAN-I~~oM6gzyJpOskthwFLQdg9Jzs4WgcCOeePj588B6S-TPZ~L-2goKkMyVZpvlyIHFDfWiVFqSUJPxs1W-6f81kh2xF22a0I9U1ox8sug__"
-        },
-        "6": {
-            "Titulo": "Birds Song",
-            "Artista": "ivanov93",
-            "Genero": "Ambiente",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/50156/Birds_Song_mp3.mp3?Expires=2003794279496&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=P6ATnHuhO3r0Fu9Fax~Qews~ddLOw5ODtRc9ab4kYY4PE3gDZtyweek~jEt8kH~8h9bBWFgLVLZ13TeN1tiRurPUval9vfntLyeK0wy-H6NDtyRK0tKvo5~JVcihDCFguI0f9tFp0xQu1qYgb5JzRC1BFxyhCwceO049bXBqOREI8b~KYOdvGJh9HKvIordI8UM-7dbUfRBRzBJYRg-dSBJ4ZQI-fskYTmUKd6g09Q-TTy~Z1Iaeyl8ii8zYWA~--v6XmZtXvtS0jHBIhBNpm~JKiTGI-vyD0utPSBFcDpzDCgbCSGfdgc0NL0n96Qlr4I9SfBZxB2RY2IlbPqHXmg__"
-        },
-        "7": {
-            "Titulo": "Cheohee",
-            "Artista": "Joshua Runion",
-            "Genero": "Ambiente",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1187801/Cheohee_mp3.mp3?Expires=2003750460084&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=awJM-Mw1uPLJVHWjwYLfJdYMWnqbmorZUqH7P3k2ij8gyXSyxL6QhD797AapFS1C7~Px2n0zbRMCm7wucvjsDAB7yllhA57PPFmMm9sTYhV9ulm6XghnIJE2hvH-orY0HLIgn-91vcWJohnXQdbs4z4Y5zTW88sfW~vhN2lbrnS1Zu632jEHuJurKbedLyRPtLirkz1hKfeWsZhFvqAfdKtDcvalUK2u5IbqrCGdm-NmsdNP0YA-r9vJfNzCuv6XZPp798XoLLxeCTvP2dKdbhWarBOmWImzZEoDWBIMZK~GusNkfpQLjsTwMHRNGh8cS0-HVJXcKTz9e8tlBc2stw__"
-        },
-        "8": {
-            "Titulo": "Calm Peaceful Relaxed Jazz Music",
-            "Artista": "EITAN EPSTEIN MUSIC",
-            "Genero": "Jazz",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/89904/Calm_Peaceful_Relaxed_Jazz_Music_mp3.mp3?Expires=2003754455372&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=1LG5TFh~VrrOTGiSIbJzBwiNigINTmsnjs7MGJuJ7Xg9iqi4AtOSjK2ViqPllMkNTldO1xYmdK~2B7AtGS9QuKckRjnOdkof5HeTSTEXp2Ycffrl7FaIwKk7rcHPcNrzUvcpmh411vuPZCuIuhF~sehgsaHZCIk7ZHJRI2dkYQwUhO3sN2WzGhqf0UHqnBLNEMn7MR-ygWzIqe8ZkN~Y4b85wNi6vcqSj2MpuNUa0~cvUe6nIfZth4la~z8dQze7IKzJZv6N7F19W~BQvS4ducS8I00z3Bl8h~SqgAx5uYxmPbd7ydaWNWjexjyQG1zmqAC6-GIYtG1nBV48WOrLjw__"
-        },
-        "9": {
-            "Titulo": "Ambient Jazz",
-            "Artista": "Brain Alien",
-            "Genero": "Jazz",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/47194/Ambient_Jazz_mp3_1710767298.mp3?Expires=2026127593132&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=ZKeNNmVqbGwWb1RlFfl0Qdpka8kzvwvumJwlLX5AoKrrfayW898B36gVJvi5lK9U5HTFRSUvNyS5TnpHBlHv-1pkg5ZsOLEIuFwq7c1~heaM6IQbZArtZfUliC4Zu6YxEESPwP0sshz1rfkQAxUf3giTCLcRte1~wMILPRiIPajdmmoO0CWh8u9Ta9CrLpwxFr0tyB9nq~jnpLCT3Q33xf9OegEtNDlvBPRvrfiZNBPQCsz-bE3q19geMB6ozVc~qoGzKNar0Qads932AYIntXeJlBqum8nHTaf5g-JoOokuosy2qPTBUQnc43X6i6E3CXnzdClvzYWPC7AEX9dJGw__"
-        },
-        "10": {
-            "Titulo": "LoFi Princess",
-            "Artista": "requently Asked Music",
-            "Genero": "Lofi/jazz",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/425483/LoFi_Princess_mp3.mp3?Expires=2003733424252&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=REyly5BsOfschS1iqNUahs78bETK6ys5PMZzUiB~mfuytcSHxhETvQ-ksOVEob3AUyaM7Lz3qXvCFta2dG4ENTwiMEv75g9dnO3DznBncGg~6~Y9hlsbvahFeCSIvOV3-EQcFURWq4QuZh2r3Zi0Xb-cHJK0rYEbe0Ck6h10OAP-2GqasbnvNo6oVkghrI3vCtuI2GRi36YNcLxvVKubuGFXOoLp~iXntBafWWrQTwur1nbRB9mDP5NELDGjOrfNN5aQJ2xF~~bS3Mt6FxdKQeLDG4th7uaDyie7JxEB~VQ~vgCQHhzjfMFm-znKrOzlk3WlHrxfPUfrg3une8tdfg__"
-        },
-        "11": {
-            "Titulo": "Jazzy Sunday Vlog",
-            "Artista": "SoundJuicer",
-            "Genero": "Lofi/jazz",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1188914/Jazzy_Sunday_Vlog_mp3.mp3?Expires=2003755005951&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=kb6tSN53Y3f7MzUEy0-FJ0JBLrXQ-2ZpO-yW2oVXzjjS6eYXwuY2JVHRF8qSVLbefGyLKUwG9AguuN2~M-KSzI-9Fn3ZNc7Byk9Zqlwr86LQ9k-pZD7~ropp9gY~lJQ5djYMQU1jDblIL3MT1~DZSzFRwuj3FuOpXlPtrAT3lllJC2ny8mxy-CT8ct6PZ6m14V1dZC0RS3wnC6CuVhcLS1G7OqCCbuFI-Moa0ws1cOn2AgJyE0-6gdAR72g7VonMUURmkrSrYV8LvaQabH-O4gFNlCMVUraSrnW3c3W6WMHNmADc5oy-ATxciGd042xPib9Wi0kaT3dFn8tb9S5lPg__"
-        },
-        "12": {
-            "Titulo": "Silky Smooth",
-            "Artista": "RagTag",
-            "Genero": "Lofi/jazz",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1363049/Silky_Smooth_mp3_1710960708.mp3?Expires=2026320997166&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=ENiMI40Wi60V7uzQ69nHX6humO-yrpnlns0tkjrTxZ8iZDoXKpHpbgn9U58vRqdNYwwAA2DhJTt4YyTyIihOD6W9xKQwsd61H1rRYXK5elUPV0grN6bJ7FOYKkrBllUQyF2vOtXbg1UYpiN5pzXQ~6l7BA1O-FkFrkal1~ykrqW6xv1001IubgXtnAK6K8FBSxrik0dzG1TLPuRKIrCyeCeIPA-w8Wl7-iFvUY9eG3t9gRwGEBCQ4cny9wt-PTagzHdUQST6Agwyp6eV8h1QrId-XQVPbn1HuCd5M4WzK6O~gWIB3BbMj5FwmHNOFmpIf6H4SYr66DBRkj-6XF6TEw__"
-        },
-        "13": {
-            "Titulo": "Daydream",
-            "Artista": "Fleming",
-            "Genero": "Lofi",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1369410/Daydream_mp3_1710864691.mp3?Expires=2026224992814&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=wjgAP8tSu~GhA8NSMSpfAizmszAJId45Hp8kFN6FNDIHTE4O8f5L4~kzrG3aXvLOTE~KV4jpz46j0s5OSVZY8seihX7dmUuRaXL4OVO2IBPPXm4BDJItNgqaziJYYkws-n4L15eJekF9KO-06pByUTCME2-j5TG~U~J-hTWOpA-vorTUALPB-XjZwXfpvlAQW8RPGMiQ3zNQrsIsJm7F-apDp6YGzuzbsfC5f6knhEqaFXjIcjYgiQvEhIClCbA8sB1zbx9SRTGx8OzCf-~nKk8Q0lQpuJk3P-eLyCPk9EsTnOGIlwG0YpvArvI7tLSNQA6PgeCfVbNaOsjwRlnB2A__"
-        },
-        "14": {
-            "Titulo": "Lofi Hiphop Nights",
-            "Artista": "FrozenjaZz",
-            "Genero": "Lofi/HipHop",
-            "Link": "https://cms-artifacts.motionarray.com/content/motion-array/276723/Lofi_Hiphop_Nights_mp3.mp3?Expires=2003733780108&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=w4loWDCx4yHONEXkGIlSCPJ~zBlJoKE~QILNdPJGARupFr~n8uOluz0QYH4jK2pjmnSWsRenqT2XpW~t3yT7usM-tfSxN1osVjJntH~FJHcQpd0cNjXce3A-O9PdFISUKPHtHfx2zIEbIM5TNuFORAj0YpsRIISooMfp6lUbTs2VYSQITNxZyCsW1lOw5S3MLz~MA79~WmZzd1WmDzRnLHzpgKUsI67SyBeuM--es3M6pWM-eIyiz~TN4S9nXxErvTQqa87ZpdSNzQxGJCtwkZvLTW3NZgEHX-iYdWj94p2tD33rcPSXp6c9EQ~KhX-eftOXR6NuGw-~8xxRtgeK6A__"
-        }
+    "dvd@cin.ufpe.br": {
+      "status_diario": "bom",
+      "dor_inesperada": 0,
+      "meta_diaria": ["0", "1", "2", "3", "5"],
+      "progresso_diario": ["0"],
+      "estilos_musicais": ["Jazz", "Sons de Chuva"],
+      "pausa_relaxar": 19,
+      "tempo_escutado": 20,
+      "status_emocional": "?",
+      "areas": ["pulso", "pescoco"]
+    }
+  },
+  "musicas": {
+    "0": {
+      "Titulo": "Thoughtful",
+      "Artista": "marcobellonimusic",
+      "Genero": "Inspirador",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1163534/Thoughtful_mp3_1710983450.mp3?Expires=2026343758468&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=cjxkn8Cv5EGDjZj3jmKeFwQ68lZ82jWv5v2qeqvDP5rhCpqwebAdgsyYOxc4XbJJ0N8GCo8m~vAX7-h9WX1qYuq9Y~ctnQ8fwU-KlzUmZv-zrPvlxuynMR8jTsKwxaXGn9PUQxFUYVqTjFicRyoSbxpZMTGfKs0wV87Z4YbFZKN4Deen7zQ5b4SUV9oQ62Sr752BjIbQrHFWtfB08ZMnMcdtSkhL1-QeY6wjLtPHPkusYVB7xo4CUzTqmaOlgZ3aM~Au6HItl4TSeCZXp6UixcJCa7qE-HM92yoivyzR9-gKG9uu1D4MCheJJZokwUHmPXL3EyB9BtV9jfEhWKzALw__"
     },
-    "playlists": {
-        "Inspirador": ["0"],
-        "Jazz": ["1", "8", "9", "10", "11", "12"],
-        "Celta": ["2", "3", "4", "5"],
-        "Ambiente": ["6", "7"],
-        "Lofi": ["10", "11", "12", "13", "14"],
-        "HipHop": ["14"]
+    "1": {
+      "Titulo": "Sweet Melancholy",
+      "Artista": "Pressmaster",
+      "Genero": "Jazz",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/859612/Sweet_Melancholy_mp3_1710975071.mp3?Expires=2026335377615&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=aOo90pDO3R20EW~Gx0bGQoV5E2QahwR2o9fnTK48g9dE4NXgjPRyqYHSzVZouWADHJtxs82RXZfzUPAKON32hXocHlLkDn9vwUELQx7JdJrK06OXQlv5xgN1hGtwdybNXhzwo1Ya40RZKO-2PA-lNKkp6QNfI27MvGOHgRlvn1VMHpS-aVDOvqv5jOWdK-KWO61TAzL~yE9TXTvjhpfvmwCVHTbUdQ4vN72QUDRoVmabNOk5nGvU8m8LorSF8O8LO7HnMq4iwC4cKZNOtum0KW-mnr3~4~JbPCFxbStZ~Pn~UXvJXSYmYInmVjHsNF7C2Pte6iu0kSW76XPV0CZFrQ__"
     },
-    "exercicios": {
-        "0": {
-            "categoria": "pulso",
-            "video_id": "8000",
-            "duracao": 215
-        },
-        "1": {
-            "categoria": "pescoco",
-            "video_id": "238946823",
-            "duracao": 215
-        },
-        "2": {
-            "categoria": "pes",
-            "video_id": "238946823",
-            "duracao": 215
-        },
-        "3": {
-            "categoria": "maos",
-            "video_id": "238946823",
-            "duracao": 215
-        },
-        "4": {
-            "categoria": "pescoco",
-            "video_id": "238946823",
-            "duracao": 215
-        },
-        "5": {
-            "categoria": "pernas",
-            "video_id": "238946823",
-            "duracao": 215
-        }
+    "2": {
+      "Titulo": "A Forest Tale",
+      "Artista": "Roger Stark",
+      "Genero": "Celta",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/862839/A_Forest_Tale_mp3.mp3?Expires=2003733649675&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=VHrGUTgzGmGhhFkLRuAeai3HAm4Jw3gasBTrNprNzCJZng8MZ0iy73GsRwhccV34icdUy2i-nakkITYd~nr~6QFc4U5vSjhbogwB2xGyus2fBFRhKpbNVmd77RD1TrT93T3hxkx2wu91zJ89kqbSR3TLkl8JtkbCbD3GwotVR~O8UrvXLoAu2kfeC770Ya8ko3g6T1LJVvlueqIc02YvgUK2YTPqR-RdnAg~6fyca4pE0Bu9GGjbFSoMYqoj85IDxtHpd7mnoug5kvWQwJpemYXu-3pw5mXPo6m03IMUiG5tYByEc8yR~qQwhWOX2hHjjDeo594oga2SQy4O1PYnlQ__"
     },
-    "areas": [
-        "pulso",
-        "pescoco",
-        "pes",
-        "maos",
-        "pernas",
-        "ombro"
-    ]
+    "3": {
+      "Titulo": "Ethereal Tin Whistle",
+      "Artista": "Katcamusic",
+      "Genero": "Celta",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/903837/Ethereal_Tin_Whistle_mp3.mp3?Expires=2003733897111&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=c1DUmZTk1vqSXdS92SN6jV7aSldxeKD2FmlbzJlVieJ1A2AYgObhSI1NRuUKsguUHZ6RMsyiYAmahD0v2tajh9saHQ65japoK6zhBO2V5bw9KW6rDsSqLXtqNmoB5SmvK-vpSw7gssS8Uhk1RlDwHmW5ExdLhgtZAWEdyp9fHk8Qjqg~UIIJPNPaLW~hsgrR0t6Xp3IcF5et23vH-b5zAnRJI~7fEedUiyv2We2KFzH3cLPlk~JtK5eoJul2Jqu4aj7mBVu0KG4Myk7zCDb8ISgc1Fras76o21Ivf55nGu-vSO0KVSvvHjeaMDTAw7-hNjnhkMfHWNG13eUxQffAiQ__"
+    },
+    "4": {
+      "Titulo": "Dawn Before Battle",
+      "Artista": "WhiteKoalaMusic",
+      "Genero": "Celta",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/812511/Dawn_Before_Battle_mp3_1710864393.mp3?Expires=2026224680265&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=KLCSe3kiMt~kucXgQDbifV6nw--XDlyGDqNKgQbXuzM5Vil6GtnhDS6~8nbthC5XCqC~DxFxLOl82LQ2dLev4CcJ4iLjt9p06i1hoy2UB2DMgDoBJemGnMOls2i2YUL2JCyEUOiGvjI5trX6pxAEFeAIO~KTPywY3ubW323Vcp-Dk-uakrP9OvrgurcOrR2VzJsAJgBvCvjuOqsNTYT3ec7P0X0qQ7DBqYUPWyOXeuPwxWZqaxhm2CuO4NbsglDldT9PVn-oyBGOpX1Ld3LVCVcN3KuBkUUrDB5eF3K65r~YJ7QPliwMpFQcNjXf6jo4t4cF7cv4BrZWQAAl9NFt9Q__"
+    },
+    "5": {
+      "Titulo": "The Lonely Piper",
+      "Artista": "DAYDREAMZ STUDIOS",
+      "Genero": "Celta",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1080685/The_Lonely_Piper_mp3.mp3?Expires=2003733034169&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=09hoFJ-NWv03YBsDnbj39Onr46tScsuM~4zEGauWDWl9qQmT8OV-8ex7A2cGeJ4oY1PhftTB2hEp8Inq2KeDI40yml~70Uq2z9gXIwf2fANFPTBiAJL9yzGMQ0XsDdzOilBUpGHHyLqVHl9EC8viJJVfyOpbpijXz-jJBfUm-UEN7IeVyUAS6PD97uEq8phbAFPHXObx8bkxRPVX1nbHsiO67v-16A~MmujaFAa7YfBAN-I~~oM6gzyJpOskthwFLQdg9Jzs4WgcCOeePj588B6S-TPZ~L-2goKkMyVZpvlyIHFDfWiVFqSUJPxs1W-6f81kh2xF22a0I9U1ox8sug__"
+    },
+    "6": {
+      "Titulo": "Birds Song",
+      "Artista": "ivanov93",
+      "Genero": "Ambiente",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/50156/Birds_Song_mp3.mp3?Expires=2003794279496&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=P6ATnHuhO3r0Fu9Fax~Qews~ddLOw5ODtRc9ab4kYY4PE3gDZtyweek~jEt8kH~8h9bBWFgLVLZ13TeN1tiRurPUval9vfntLyeK0wy-H6NDtyRK0tKvo5~JVcihDCFguI0f9tFp0xQu1qYgb5JzRC1BFxyhCwceO049bXBqOREI8b~KYOdvGJh9HKvIordI8UM-7dbUfRBRzBJYRg-dSBJ4ZQI-fskYTmUKd6g09Q-TTy~Z1Iaeyl8ii8zYWA~--v6XmZtXvtS0jHBIhBNpm~JKiTGI-vyD0utPSBFcDpzDCgbCSGfdgc0NL0n96Qlr4I9SfBZxB2RY2IlbPqHXmg__"
+    },
+    "7": {
+      "Titulo": "Cheohee",
+      "Artista": "Joshua Runion",
+      "Genero": "Ambiente",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1187801/Cheohee_mp3.mp3?Expires=2003750460084&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=awJM-Mw1uPLJVHWjwYLfJdYMWnqbmorZUqH7P3k2ij8gyXSyxL6QhD797AapFS1C7~Px2n0zbRMCm7wucvjsDAB7yllhA57PPFmMm9sTYhV9ulm6XghnIJE2hvH-orY0HLIgn-91vcWJohnXQdbs4z4Y5zTW88sfW~vhN2lbrnS1Zu632jEHuJurKbedLyRPtLirkz1hKfeWsZhFvqAfdKtDcvalUK2u5IbqrCGdm-NmsdNP0YA-r9vJfNzCuv6XZPp798XoLLxeCTvP2dKdbhWarBOmWImzZEoDWBIMZK~GusNkfpQLjsTwMHRNGh8cS0-HVJXcKTz9e8tlBc2stw__"
+    },
+    "8": {
+      "Titulo": "Calm Peaceful Relaxed Jazz Music",
+      "Artista": "EITAN EPSTEIN MUSIC",
+      "Genero": "Jazz",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/89904/Calm_Peaceful_Relaxed_Jazz_Music_mp3.mp3?Expires=2003754455372&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=1LG5TFh~VrrOTGiSIbJzBwiNigINTmsnjs7MGJuJ7Xg9iqi4AtOSjK2ViqPllMkNTldO1xYmdK~2B7AtGS9QuKckRjnOdkof5HeTSTEXp2Ycffrl7FaIwKk7rcHPcNrzUvcpmh411vuPZCuIuhF~sehgsaHZCIk7ZHJRI2dkYQwUhO3sN2WzGhqf0UHqnBLNEMn7MR-ygWzIqe8ZkN~Y4b85wNi6vcqSj2MpuNUa0~cvUe6nIfZth4la~z8dQze7IKzJZv6N7F19W~BQvS4ducS8I00z3Bl8h~SqgAx5uYxmPbd7ydaWNWjexjyQG1zmqAC6-GIYtG1nBV48WOrLjw__"
+    },
+    "9": {
+      "Titulo": "Ambient Jazz",
+      "Artista": "Brain Alien",
+      "Genero": "Jazz",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/47194/Ambient_Jazz_mp3_1710767298.mp3?Expires=2026127593132&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=ZKeNNmVqbGwWb1RlFfl0Qdpka8kzvwvumJwlLX5AoKrrfayW898B36gVJvi5lK9U5HTFRSUvNyS5TnpHBlHv-1pkg5ZsOLEIuFwq7c1~heaM6IQbZArtZfUliC4Zu6YxEESPwP0sshz1rfkQAxUf3giTCLcRte1~wMILPRiIPajdmmoO0CWh8u9Ta9CrLpwxFr0tyB9nq~jnpLCT3Q33xf9OegEtNDlvBPRvrfiZNBPQCsz-bE3q19geMB6ozVc~qoGzKNar0Qads932AYIntXeJlBqum8nHTaf5g-JoOokuosy2qPTBUQnc43X6i6E3CXnzdClvzYWPC7AEX9dJGw__"
+    },
+    "10": {
+      "Titulo": "LoFi Princess",
+      "Artista": "requently Asked Music",
+      "Genero": "Lofi/jazz",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/425483/LoFi_Princess_mp3.mp3?Expires=2003733424252&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=REyly5BsOfschS1iqNUahs78bETK6ys5PMZzUiB~mfuytcSHxhETvQ-ksOVEob3AUyaM7Lz3qXvCFta2dG4ENTwiMEv75g9dnO3DznBncGg~6~Y9hlsbvahFeCSIvOV3-EQcFURWq4QuZh2r3Zi0Xb-cHJK0rYEbe0Ck6h10OAP-2GqasbnvNo6oVkghrI3vCtuI2GRi36YNcLxvVKubuGFXOoLp~iXntBafWWrQTwur1nbRB9mDP5NELDGjOrfNN5aQJ2xF~~bS3Mt6FxdKQeLDG4th7uaDyie7JxEB~VQ~vgCQHhzjfMFm-znKrOzlk3WlHrxfPUfrg3une8tdfg__"
+    },
+    "11": {
+      "Titulo": "Jazzy Sunday Vlog",
+      "Artista": "SoundJuicer",
+      "Genero": "Lofi/jazz",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1188914/Jazzy_Sunday_Vlog_mp3.mp3?Expires=2003755005951&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=kb6tSN53Y3f7MzUEy0-FJ0JBLrXQ-2ZpO-yW2oVXzjjS6eYXwuY2JVHRF8qSVLbefGyLKUwG9AguuN2~M-KSzI-9Fn3ZNc7Byk9Zqlwr86LQ9k-pZD7~ropp9gY~lJQ5djYMQU1jDblIL3MT1~DZSzFRwuj3FuOpXlPtrAT3lllJC2ny8mxy-CT8ct6PZ6m14V1dZC0RS3wnC6CuVhcLS1G7OqCCbuFI-Moa0ws1cOn2AgJyE0-6gdAR72g7VonMUURmkrSrYV8LvaQabH-O4gFNlCMVUraSrnW3c3W6WMHNmADc5oy-ATxciGd042xPib9Wi0kaT3dFn8tb9S5lPg__"
+    },
+    "12": {
+      "Titulo": "Silky Smooth",
+      "Artista": "RagTag",
+      "Genero": "Lofi/jazz",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1363049/Silky_Smooth_mp3_1710960708.mp3?Expires=2026320997166&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=ENiMI40Wi60V7uzQ69nHX6humO-yrpnlns0tkjrTxZ8iZDoXKpHpbgn9U58vRqdNYwwAA2DhJTt4YyTyIihOD6W9xKQwsd61H1rRYXK5elUPV0grN6bJ7FOYKkrBllUQyF2vOtXbg1UYpiN5pzXQ~6l7BA1O-FkFrkal1~ykrqW6xv1001IubgXtnAK6K8FBSxrik0dzG1TLPuRKIrCyeCeIPA-w8Wl7-iFvUY9eG3t9gRwGEBCQ4cny9wt-PTagzHdUQST6Agwyp6eV8h1QrId-XQVPbn1HuCd5M4WzK6O~gWIB3BbMj5FwmHNOFmpIf6H4SYr66DBRkj-6XF6TEw__"
+    },
+    "13": {
+      "Titulo": "Daydream",
+      "Artista": "Fleming",
+      "Genero": "Lofi",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/1369410/Daydream_mp3_1710864691.mp3?Expires=2026224992814&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=wjgAP8tSu~GhA8NSMSpfAizmszAJId45Hp8kFN6FNDIHTE4O8f5L4~kzrG3aXvLOTE~KV4jpz46j0s5OSVZY8seihX7dmUuRaXL4OVO2IBPPXm4BDJItNgqaziJYYkws-n4L15eJekF9KO-06pByUTCME2-j5TG~U~J-hTWOpA-vorTUALPB-XjZwXfpvlAQW8RPGMiQ3zNQrsIsJm7F-apDp6YGzuzbsfC5f6knhEqaFXjIcjYgiQvEhIClCbA8sB1zbx9SRTGx8OzCf-~nKk8Q0lQpuJk3P-eLyCPk9EsTnOGIlwG0YpvArvI7tLSNQA6PgeCfVbNaOsjwRlnB2A__"
+    },
+    "14": {
+      "Titulo": "Lofi Hiphop Nights",
+      "Artista": "FrozenjaZz",
+      "Genero": "Lofi/HipHop",
+      "Link": "https://cms-artifacts.motionarray.com/content/motion-array/276723/Lofi_Hiphop_Nights_mp3.mp3?Expires=2003733780108&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=w4loWDCx4yHONEXkGIlSCPJ~zBlJoKE~QILNdPJGARupFr~n8uOluz0QYH4jK2pjmnSWsRenqT2XpW~t3yT7usM-tfSxN1osVjJntH~FJHcQpd0cNjXce3A-O9PdFISUKPHtHfx2zIEbIM5TNuFORAj0YpsRIISooMfp6lUbTs2VYSQITNxZyCsW1lOw5S3MLz~MA79~WmZzd1WmDzRnLHzpgKUsI67SyBeuM--es3M6pWM-eIyiz~TN4S9nXxErvTQqa87ZpdSNzQxGJCtwkZvLTW3NZgEHX-iYdWj94p2tD33rcPSXp6c9EQ~KhX-eftOXR6NuGw-~8xxRtgeK6A__"
+    }
+  },
+  "playlists": {
+    "Inspirador": ["0"],
+    "Jazz": ["1", "8", "9", "10", "11", "12"],
+    "Celta": ["2", "3", "4", "5"],
+    "Ambiente": ["6", "7"],
+    "Lofi": ["10", "11", "12", "13", "14"],
+    "HipHop": ["14"]
+  },
+  "exercicios": {
+    "0": {
+      "categoria": "pulso",
+      "video_id": "8000",
+      "duracao": 215
+    },
+    "1": {
+      "categoria": "pescoco",
+      "video_id": "238946823",
+      "duracao": 215
+    },
+    "2": {
+      "categoria": "pes",
+      "video_id": "238946823",
+      "duracao": 215
+    },
+    "3": {
+      "categoria": "maos",
+      "video_id": "238946823",
+      "duracao": 215
+    },
+    "4": {
+      "categoria": "pescoco",
+      "video_id": "238946823",
+      "duracao": 215
+    },
+    "5": {
+      "categoria": "pernas",
+      "video_id": "238946823",
+      "duracao": 215
+    }
+  },
+  "areas": ["pulso", "pescoco", "pes", "maos", "pernas", "ombro"]
 }
